@@ -19,13 +19,15 @@ SCHEDULE
 | 03/04/24 | Go/No Go  | Dea, Eri, Thelleza  | PM, Dev, QA | 
 
 
+
  THINGS TO BE TESTED 
 
  | Subject of testing | Testing approach | Needs automation helper? (leave blank for "no") |
  |---------------------|-----------------------|---------------------------------------------------|
- | 1.Sentence structures 2.Spelling errors 3.Presence of all required sections or elements 4.Detection of duplicate paragraphs, sentences, or phrases|
- 1. Component testing:a. Positive testing: To verify that each component of the file functions correctly under expected conditions. b. To identify potential failures or unexpected behaviors within components under adverse conditions. 2. Integration testing:a. Verify the system's functionality at each stage of integration.
-3.System testing: Verify that the file performs its intended functions correctly. |        |
+ | 1.Sentence structures 2.Spelling errors 3.Presence of all required sections or elements 4.Detection of duplicate paragraphs, sentences, or phrases |
+ | 1. Component testing:a. Positive testing: To verify that each component of the file functions correctly under expected conditions. b. To identify potential failures or unexpected behaviors within components under adverse conditions. 2. Integration testing:a. Verify the system's functionality at each stage of integration.
+3.System testing: Verify that the file performs its intended functions correctly.| 
+|        |
 
 
 
